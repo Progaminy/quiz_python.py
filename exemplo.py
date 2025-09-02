@@ -1,9 +1,38 @@
-# digite a funcao pra mostar algo na tela: 
-# Resposta correta: print()
+# Digite a função para obter valores do usuário:
+
+# Resposta correta: input()
 
 # Escreva seu código de treino abaixo:
-# -----------------------------------
+# --------------------------------
 
-import random
+# Escreva o código print() para exibi
+#r seu nome. Adicione um comentário ex
+#plicando o que o código faz.
 
-print(random.randint(0, 10))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
+# Este programa imprime uma mensagem com meu nome
+print('Olá, meu nome é len!')
+'''
